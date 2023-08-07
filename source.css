@@ -10,10 +10,10 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
 */
 :root {
   /*Global variables that were made/edited by me*/
-  --Main-Color: rgb(91, 114, 191); /*main master color*/
-  --Secondary-Color: rgb(170, 0, 158); /*secondary color*/
-  --Third-Color: rgb(110,0,158); /*third color*/
-  --Color-4: rgb(90,0,158); /*color number 4*/
+  --Main-Color: rgb(0, 60, 255); /*main master color*/
+  --Secondary-Color: rgb(0, 166, 255); /*secondary color*/
+  --Third-Color: rgb(170, 0, 158); /*third color*/
+  --Color-4: rgb(150, 133, 241); /*color number 4*/
   --Color-5: hsla(320, 40%, 40%, 0.366); /*color number 5*/
   --Color-6: hsla(320, 50%, 50%, 0.466); /*color number 6*/
   --Grey-Color: rgb(31, 31, 31); /*grey color*/
