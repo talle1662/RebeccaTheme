@@ -10,7 +10,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
 */
 :root {
   /*Global variables that were made/edited by me*/
-  --Main-Color: rgb(250, 0, 158); /*main master color*/
+  --Main-Color: rgb(0, 60, 255); /*main master color*/
   --Secondary-Color: rgb(0, 166, 255); /*secondary color*/
   --Third-Color: rgb(170, 0, 158); /*third color*/
   --Color-4: rgb(150, 133, 241); /*color number 4*/
@@ -207,7 +207,7 @@ $$  /   \$$ |$$ |  $$ |   $$ |   $$$$$$$$\ $$ |  $$ |$$ | \_/ $$ |$$ |  $$ |$$ |
 \__/     \__|\__|  \__|   \__|   \________|\__|  \__|\__|     \__|\__|  \__|\__|  \__|\__|  \__|
 */
 div[class*="typeWindows-"]::after {
-  content: 'ℝ𝕖𝕓𝕖𝕔𝕔𝕒 𝕋𝕙𝕖𝕞𝕖';
+  content: '!ᴊᴏʜsɪʟジョシル 😈';
   font-weight: bold;
   font-size: 14px;
   line-height: 30px;
@@ -1321,7 +1321,7 @@ $$ |  $$ | $$$$$$  |$$ | \_/ $$ |$$$$$$$$\
 
 /*Active now Text Color*/
 .header-Imy05m {
-  font-family: var(--font-display);
+  font-family: "Courier New";
   margin: 8px 0 16px;
   font-weight: 700;
   color: var(--Main-Color) !important;
