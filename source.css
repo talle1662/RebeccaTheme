@@ -210,6 +210,7 @@ div[class*="typeWindows-"]::after {
   content: '!ᴊᴏʜsɪʟジョシル 😈';
   font-weight: bold;
   font-size: 14px;
+  font-family: "Courier New";
   line-height: 30px;
   top: 0;
   left: 0;
@@ -654,11 +655,13 @@ Titlebar top buttons colors. Close, rezise and hide*/
 .detailsWrap-omKn0b, .nameWrap-3TyM52 {
   color: var(--Main-Color);
   font-weight: 900;
+  font-family: "Courier New";
 }
 /*on*/
 .details-2-ciHo, .nameNormal-2fPMD2, .playTime-3fSgOm, .state-2NT76I, .timestamp-2f1NmH {
   color: var(--Main-Color);
   font-weight: 900;
+  font-family: "Courier New";
 }
 /*Song lenght bar*/
 .bar-1GpknY {
@@ -673,6 +676,7 @@ Titlebar top buttons colors. Close, rezise and hide*/
 .themed-1LCNAV .textLeft-1Noen0, .themed-1LCNAV .textRight-2IW704 {
   color: var(--Main-Color);
   font-weight: 900;
+  font-family: "Courier New";
 }
 .activityName-3YXl6e, .nameNormal-2fPMD2, .nameWrap-3TyM52 {
   color: var(--Main-Color) !important;
@@ -855,6 +859,7 @@ Titlebar top buttons colors. Close, rezise and hide*/
   color: var(--Main-Color);
   font-weight: 1000;
   font-size: medium;
+  font-family: "Courier New";
 }
 /*Select plan > Payment > Review text color*/
 .breadcrumb-17S_pr {
@@ -926,12 +931,14 @@ Titlebar top buttons colors. Close, rezise and hide*/
 .modalTitle-2skSKy .content-1i_k8f {
   color: var(--Main-Color);
   font-weight: 600;
+  font-family: "Courier New";
 }
 /*subtitle text color*/
 .modalSubtitle-2lx7qk {
   background-color: black;
   color: var(--Secondary-Color) !important;
   font-weight: 600;
+  font-family: "Courier New";
 }
 
 /*All descriptions*/
@@ -1416,6 +1423,7 @@ $$ |  $$ | $$$$$$  |$$ | \_/ $$ |$$$$$$$$\
 /*Learn more text*/
 .anchor-1MIwyf {
   font-weight: 800;
+  font-family: "Courier New";
 }
 
 /*Public servers icon*/
@@ -1544,6 +1552,7 @@ $$\   $$ |   $$ |   $$ |  $$ |$$ |      $$ |  $$ |$$ |\$  /$$ |  $$ |  $$ |\$$$ 
 .item-LN5zvA {
   cursor: pointer;
   font-size: 13px;
+  font-family: "Courier New";
   margin-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -1553,6 +1562,7 @@ $$\   $$ |   $$ |   $$ |  $$ |$$ |      $$ |  $$ |$$ |\$  /$$ |  $$ |  $$ |\$$$ 
 .item-LN5zvA:hover {
   cursor: pointer;
   font-size: 13px;
+  font-family: "Courier New";
   margin-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -1562,6 +1572,7 @@ $$\   $$ |   $$ |   $$ |  $$ |$$ |      $$ |  $$ |$$ |\$  /$$ |  $$ |  $$ |\$$$ 
 .item-LN5zvA[aria-selected=true] {
   cursor: pointer;
   font-size: 13px;
+  font-family: "Courier New";
   margin-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -1589,6 +1600,7 @@ $$\   $$ |   $$ |   $$ |  $$ |$$ |      $$ |  $$ |$$ |\$  /$$ |  $$ |  $$ |\$$$ 
 /*"Sound may not be available..." text color*/
 .text-xs-normal-3SiVjE {
     font-weight: 1000;
+    font-family: "Courier New";
     color: var(--Secondary-Color) !important;
 }
 /*Icon Color*/
@@ -1631,6 +1643,7 @@ $$\   $$ |   $$ |   $$ |  $$ |$$ |      $$ |  $$ |$$ |\$  /$$ |  $$ |  $$ |\$$$ 
 }
 .selectorText-LxivBc {
   font-weight: 1000;
+  font-family: "Courier New";
   color: var(--Main-Color) !important;
 }
 
@@ -2079,6 +2092,7 @@ $$ |  $$ |$$\   $$ |$$ |      $$ |  $$ |      $$\   $$ |$$ |         $$ |      $
 .marketingRefreshTitle-UaHKpk {
   color: var(--Main-Color);
   font-size: 24px;
+  font-family: "Courier New";
   line-height: 30px;
   margin-bottom: 8px;
   margin-top: 0;
@@ -2087,6 +2101,7 @@ $$ |  $$ |$$\   $$ |$$ |      $$ |  $$ |      $$\   $$ |$$ |         $$ |      $
 .marketingRefreshSubtitle-17I8Dd {
   color: var(--Secondary-Color);
   font-size: 16px;
+  font-family: "Courier New";
   line-height: 20px;
   margin: 0;
 }
@@ -2104,6 +2119,7 @@ $$ |  $$ |$$\   $$ |$$ |      $$ |  $$ |      $$\   $$ |$$ |         $$ |      $
 .marketingRefreshDescription-2_tCTt {
   color: var(--Main-Color);
   font-size: 16px;
+  font-family: "Courier New";
   line-height: 20px;
   margin: 0 0 16px;
 }
@@ -2286,6 +2302,7 @@ $$ |  $$ |$$\   $$ |$$ |      $$ |  $$ |      $$\   $$ |$$ |         $$ |      $
 .gameName-zbZetm {
   font-size: 16px;
   font-weight: 600;
+  font-family: "Courier New";
   line-height: 22px;
   color: var(--Main-Color) !important;
 }
@@ -2540,12 +2557,14 @@ $$\   $$ |$$ |      $$ |  $$ |  \$$$  /  $$ |      $$ |  $$ |      $$\   $$ |$$ 
 .defaultColor-2cKwKo {
   color: var(--Main-Color);
   font-weight: 800;
+  font-family: "Courier New";
 }
 
 /*All titles ("Server name", "Inactive channel", "Inactive timeout", "System message channel", "Default notification settings", "Server banned background lvl2", "Server invite background lvl1")*/
 .h5-2RwDNl {
   color: var(--Main-Color);
   font-weight: 900;
+  font-family: "Courier New";
 }
 
 /*All disabled dropdowns*/
@@ -3329,6 +3348,7 @@ $$ |  $$ |$$ |  $$ |  $$ |  $$ |      $$ |  $$ |$$\   $$ |
   border-radius: 15px;
   border: 1.7px solid;
   font-size: 12px;
+  font-family: "Courier New";
 }
 /*Border and role text color nitro themed*/
 .rolePillBorder-RiRiuN {
