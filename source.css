@@ -10,7 +10,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
 */
 :root {
   /*Global variables that were made/edited by me*/
-  --Main-Color: rgb(250, 0, 158); /*main master color*/
+  --Main-Color: rgb(91, 114, 191); /*main master color*/
   --Secondary-Color: rgb(170, 0, 158); /*secondary color*/
   --Third-Color: rgb(110,0,158); /*third color*/
   --Color-4: rgb(90,0,158); /*color number 4*/
@@ -33,7 +33,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --loop-gif: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif.gif?raw=true'); /*Used in files background*/
   --loop-gif2: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif2.gif?raw=true'); /*Used in guild popouts > User popout*/
   --loop-gif3: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif3.gif?raw=true'); /*Used in guild popouts > Mentioned card*/
-  --loop-gif-diamond: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif-diamond.gif?raw=true'); /*Used on home icon*/
+  --loop-gif-diamond: url('https://raw.githubusercontent.com/talle1662/RebeccaTheme/main/rebecca.png'); /*Used on home icon*/
   --logo-photo: url('https://raw.githubusercontent.com/xy-nyxy/AnotherEternity/main/background/Wumpus%20Pink.gif'); /*Used in Friends tab when no friends are online*/
   /*Borders*/
   --border1: 2px solid var(--Secondary-Color); /*master border*/
@@ -207,7 +207,7 @@ $$  /   \$$ |$$ |  $$ |   $$ |   $$$$$$$$\ $$ |  $$ |$$ | \_/ $$ |$$ |  $$ |$$ |
 \__/     \__|\__|  \__|   \__|   \________|\__|  \__|\__|     \__|\__|  \__|\__|  \__|\__|  \__|
 */
 div[class*="typeWindows-"]::after {
-  content: '🔮ANOTHER ETERNITY🔮 v1.1.3';
+  content: 'ℝ𝕖𝕓𝕖𝕔𝕔𝕒 𝕋𝕙𝕖𝕞𝕖';
   font-weight: bold;
   font-size: 14px;
   line-height: 30px;
