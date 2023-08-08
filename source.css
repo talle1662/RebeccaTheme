@@ -97,7 +97,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --background-secondary-alt: transparent;
   --background-tertiary: transparent;
   --background-accent: transparent;
-  --background-floating: transparent;
+  --background-floating: rgb(0, 24, 39);
   --background-nested-floating: transparent;
   --background-mobile-primary: transparent;
   --background-mobile-secondary: transparent;
